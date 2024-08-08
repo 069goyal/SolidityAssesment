@@ -1,6 +1,5 @@
-# solidity.sol
+#Ethereum-My-token
 
-Ethereum-My-token
 Description
 The Ethereum-My-token project is a Solidity smart contract that implements a token called "Bloodlust"(BL). It has a function for minting and burning tokens
 
