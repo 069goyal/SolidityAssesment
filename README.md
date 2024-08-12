@@ -5,7 +5,7 @@ Ethereum is a decentralized, open-source blockchain platform that enables develo
 
 ## Description:
 
-The Ethereum-My-token project is a Solidity-based smart contract designed to create and manage a custom cryptocurrency named "Bloodlust" (BL). These functionalities provide a robust framework for managing the token's availability and circulation within the Ethereum blockchain ecosystem.
+The Ethereum-My-token project is a Solidity-based smart contract designed to create and manage a custom cryptocurrency named "Bloodlove" (BL). These functionalities provide a robust framework for managing the token's availability and circulation within the Ethereum blockchain ecosystem.
 ## Getting started:
 
 **Installing**
