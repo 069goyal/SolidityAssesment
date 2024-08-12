@@ -4,7 +4,7 @@ pragma solidity ^0.8.26;
 contract Token1 {
 	
 	// public variables here
-	string public T_Name= "Bloodlust";
+	string public T_Name= "Bloodlove";
 	string public T_Abbr= "BL";
 	uint public Total_T= 0;
 	
